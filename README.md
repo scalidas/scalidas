@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @t3chstop
 
-I am going to enter my junior year of high school this fall. I am working on several software skills in an effort to be a large contributor to open source projects. I am currently working on a few projects, in web development mostly, and I am interested in learning more about machine learning. Feel free to get in touch, here or on discord(t3chstop#6969)
+High School junior interested in cars, webdev, robotics and ML. My primary projects right now are an FTC Robot for the current FTC season, a mobile net ssd for object
+detection which should work in conjunction with the robot for challenges and a social media website with a python backend.
+
+Get in touch on Discord t3chstop#6004

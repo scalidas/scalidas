@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @t3chstop
+- 👋 Hi, I’m Siddarth
 
-Incoming engineering student at Purdue University.
-Interested in cars, webdev, robotics and ML. Actively working on robotics and webdev alongside school.
-
-Get in touch on Discord t3chstop#6004
+Computer Engineering student at Purdue University interested in ASIC Design and Machine Learning.

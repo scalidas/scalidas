@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Siddarth
 
-Computer Engineering student at Purdue University interested in ASIC Design and Machine Learning.
+Third year computer engineering student at Purdue University. I'm interested in perception, navigation and embedded software, especially for autonomous vehicles and drones.
